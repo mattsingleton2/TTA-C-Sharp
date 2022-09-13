@@ -1,0 +1,8 @@
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\obj\Debug\DailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\DailyReport\obj\Debug\DailyReport.pdb

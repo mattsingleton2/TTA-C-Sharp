@@ -1,0 +1,8 @@
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\bin\Debug\Math_and_Comparison.exe.config
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\bin\Debug\Math_and_Comparison.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\bin\Debug\Math_and_Comparison.pdb
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\obj\Debug\Math_and_Comparison.csproj.AssemblyReference.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\obj\Debug\Math_and_Comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\obj\Debug\Math_and_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\obj\Debug\Math_and_Comparison.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Math_and_Comparison\obj\Debug\Math_and_Comparison.pdb
