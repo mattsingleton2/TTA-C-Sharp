@@ -16,3 +16,6 @@ Console app that takes in some user input, manipulates it, but branches based on
 
 ### Boolean_Do_While
 Another console app that takes a user input, passes it through some regex and a boolean loop and then determines whether or not we're good to go.
+
+### ArraysAndLists
+Quick project to show utilization and index search for arrays and lists.
