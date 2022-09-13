@@ -8,24 +8,23 @@ namespace Boolean_Logic
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Example Insurance Questions");
             
             //  Info collection
             Console.WriteLine("What is your age?");
-            string user_age = Console.ReadLine();
-            int user_age_converted = Convert.ToInt32(user_age);
+            int user_age = Convert.ToInt32(Console.ReadLine());
+            
             Console.WriteLine("Have you ever had a DUI? Please answer true or false:");
-            string user_dui = Console.ReadLine();
-            bool user_dui_converted = Convert.ToBoolean(user_dui);
+            bool user_dui = Convert.ToBoolean(Console.ReadLine());
+            
             Console.WriteLine("How many speeding tickets have you received?");
-            string user_tickets = Console.ReadLine();
-            int user_tickets_converted = Convert.ToInt32(user_tickets);
-
+            int user_tickets = Convert.ToInt32(Console.ReadLine());
+            
             //  Stash the true false answer into a bool variable so our response to the user looks better.
             //  Uses the method I built below to simply check all the logic instead of writing it repeatedly.
-            bool user_validity = IsEligible(user_age_converted, user_dui_converted, user_tickets_converted);
+            bool user_validity = IsEligible(user_age, user_dui, user_tickets);
 
             //  If statement to give the appropriate response back.
             if (user_validity)

@@ -8,36 +8,32 @@ namespace Math_and_Comparison
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Anonymous Income Comparison Program");
 
             //  Person 1 details and gathering.
             Console.WriteLine("What's the first person's hourly rate? ");
-            string p1_hourly = Console.ReadLine();
-            decimal p1_hourly_converted = Convert.ToDecimal(p1_hourly);
-            Console.WriteLine(p1_hourly_converted);
+            decimal p1_hourly = Convert.ToDecimal(Console.ReadLine());
+            
             Console.WriteLine("What's the first person's Hours Worked Per Week?");
-            string p1_weekHours = Console.ReadLine();
-            decimal p1_weekHours_converted = Convert.ToDecimal(p1_weekHours);
-
+            decimal p1_weekHours = Convert.ToDecimal(Console.ReadLine());
+            
             //  Person 2 details and gathering.
             Console.WriteLine("What's the second person's hourly rate? ");
-            string p2_hourly = Console.ReadLine();
-            decimal p2_hourly_converted = Convert.ToDecimal(p2_hourly);
-            Console.WriteLine(p1_hourly_converted);
+            decimal p2_hourly = Convert.ToDecimal(Console.ReadLine());
+            
             Console.WriteLine("What's the second person's Hours Worked Per Week?");
-            string p2_weekHours = Console.ReadLine();
-            decimal p2_weekHours_converted = Convert.ToDecimal(p2_weekHours);
-
+            decimal p2_weekHours = Convert.ToDecimal(Console.ReadLine());
+            
             //  Salary Calculations. I wrote a Salary method below.
-            Console.WriteLine("Annual Salary of Person 1: $" + Salary(p1_weekHours_converted, p1_hourly_converted) + "/yr");
-            Console.WriteLine("Annual Salary of Person 2: $" + Salary(p2_weekHours_converted, p2_hourly_converted) + "/yr");
+            Console.WriteLine("Annual Salary of Person 1: $" + Salary(p1_weekHours, p1_hourly) + "/yr");
+            Console.WriteLine("Annual Salary of Person 2: $" + Salary(p2_weekHours, p2_hourly) + "/yr");
 
             //  Salary Comparisons
             //  Starting by instantiating easy reference variables so I type less...
-            decimal p1_salary = Salary(p1_weekHours_converted, p1_hourly_converted);
-            decimal p2_salary = Salary(p2_weekHours_converted, p2_hourly_converted);
+            decimal p1_salary = Salary(p1_weekHours, p1_hourly);
+            decimal p2_salary = Salary(p2_weekHours, p2_hourly);
 
             Console.WriteLine("Does person 1 make more money than person 2?");
             Console.WriteLine(p1_salary > p2_salary);

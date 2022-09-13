@@ -23,21 +23,20 @@ namespace myConsoleProject.cs
             //  Could do some fancy try/catch stuff here, but I think I'd have to write this all as a method and try/catch the method result.
             //  I'll stick with basics for now.
             Console.WriteLine("What page number?\n>>>");
-            string course_page = Console.ReadLine();
-            int course_page_int = Convert.ToInt32(course_page);
-
+            int course_page = Convert.ToInt32(Console.ReadLine());
+            
             //  Console Feedback to show I parsed the Int.
-            Console.WriteLine("You've indicated you're on page #" + course_page_int + ". Thank you!");
+            Console.WriteLine("You've indicated you're on page #" + course_page + ". Thank you!");
 
             //  Asking for a boolean return from the user, crashing the program otherwise.
             //  Same reason as above on the try catch method. 
             //  Created if fork to ask for more detail since it's not open-ended.
             //  I also check to ensure the user's answer can be converted to a boolean.
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\". \n>>>");
-            string user_answer = Console.ReadLine();
-            bool user_answer_bool = Convert.ToBoolean(user_answer);
-            Console.WriteLine("You gave us the following boolean answer: " + user_answer_bool);
-            if (user_answer_bool)
+            bool user_answer = Convert.ToBoolean(Console.ReadLine());
+            
+            Console.WriteLine("You gave us the following boolean answer: " + user_answer);
+            if (user_answer)
             {
                 Console.WriteLine("What would you like extra help on?");
                 string user_extra_help = Console.ReadLine();
@@ -49,8 +48,8 @@ namespace myConsoleProject.cs
             Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.\n>>>");
             string user_feedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?\n>>>");
-            string user_hours = Console.ReadLine();
-            int user_hours_int = Convert.ToInt32(user_hours);
+            int user_hours = Convert.ToInt32(Console.ReadLine());
+            
 
             //  Thanks, user.
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
