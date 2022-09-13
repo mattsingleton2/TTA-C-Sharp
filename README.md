@@ -10,3 +10,6 @@ Another super simple console app. Takes hourly rate and weeks worked, uses an ex
 
 ### Boolean_Logic
 Console app that takes some answers in, applies some boolean logic, gives various responses based on the supplied answers.
+
+###	Branching_Assignment
+Console app that takes in some user input, manipulates it, but branches based on logic.

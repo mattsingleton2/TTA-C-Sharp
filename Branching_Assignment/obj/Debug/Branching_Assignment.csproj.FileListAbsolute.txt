@@ -1,0 +1,8 @@
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\bin\Debug\Branching_Assignment.exe.config
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\bin\Debug\Branching_Assignment.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\bin\Debug\Branching_Assignment.pdb
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.AssemblyReference.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\obj\Debug\Branching_Assignment.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Branching_Assignment\obj\Debug\Branching_Assignment.pdb
