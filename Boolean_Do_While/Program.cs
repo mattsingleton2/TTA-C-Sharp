@@ -28,7 +28,25 @@ namespace Boolean_Do_While
 
             } while (nameValidation == false);
             
+            
+            //  Separate while loop...
+            bool numberValid = false;
+            while (!numberValid)
+            {
+                Console.WriteLine("Pick a number between 1 and 10");
+                int userNumber = Convert.ToInt32(Console.ReadLine());
+                if (userNumber > 0 && userNumber <= 10)
+                {
+                    Console.WriteLine("Great, we've saved your number as " + userNumber + ".");
+                    numberValid = true;
+                } else
+                {
+                    Console.WriteLine("Hey, it's gotta be between 1 and 10.");
+                    numberValid = false;
+                }
+            }
             Console.ReadLine();
+
         }
     }
 }
