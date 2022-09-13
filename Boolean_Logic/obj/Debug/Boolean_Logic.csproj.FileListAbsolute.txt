@@ -1,0 +1,8 @@
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\bin\Debug\Boolean_Logic.exe.config
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\bin\Debug\Boolean_Logic.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\bin\Debug\Boolean_Logic.pdb
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.AssemblyReference.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\obj\Debug\Boolean_Logic.csproj.CoreCompileInputs.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\obj\Debug\Boolean_Logic.exe
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\Boolean_Logic\obj\Debug\Boolean_Logic.pdb

@@ -7,3 +7,6 @@ This one's a super simple console application that just asks the user questions 
 
 ### Math_and_Comparison
 Another super simple console app. Takes hourly rate and weeks worked, uses an extra method and calls it... nothing fancy here but just more practice.
+
+### Boolean_Logic
+Console app that takes some answers in, applies some boolean logic, gives various responses based on the supplied answers.
