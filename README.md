@@ -13,3 +13,6 @@ Console app that takes some answers in, applies some boolean logic, gives variou
 
 ###	Branching_Assignment
 Console app that takes in some user input, manipulates it, but branches based on logic.
+
+### Boolean_Do_While
+Another console app that takes a user input, passes it through some regex and a boolean loop and then determines whether or not we're good to go.
