@@ -36,56 +36,50 @@ namespace Iterations
             }
 
             //  Console App Part Four - List of unique strings
+
             //  Ask user to input text to search in list
             //  Iterate through that list and display the list index that contians the matching text.
             //  Indicate if text isn't in list.
 
-            List<string> fruits = new List<string>();
-            bool notFinished = false;
+            List<string> fruits = new List<string>() { "orange", "apple", "banana", "grape", "kiwi", "lemon", "lime", "mango", "jicama", "dragonfruit", "papaya", "berry", "kiwi"};
+            Console.WriteLine("Search for a fruit! Hint: we have a kiwi in this list.");
+            string userFruitSearch = Console.ReadLine().ToLower();
+            bool fruitFound = false;
             do
             {
-                // We'll start by asking what they want to add...
-                Console.WriteLine("Let's add some fruit to a list. Please type the name of a fruit you'd like to add.");
-                string user_fruit = Console.ReadLine();
-                //  Lower casing to protect from cApS sEnSiTiViTy
-                user_fruit = user_fruit.ToLower();
-
-                //  We'll check if that's in the list already
-                if (fruits.Contains(user_fruit))
+                if (fruits.Contains(userFruitSearch))
                 {
-                    Console.WriteLine("You already added this one.");
-                    //  Then we'll ask if they want to add more and do it again, updating our bool when we're ready to exit the loop.
-                    Console.WriteLine("Would you like to add another? Please enter true or false to continue.");
-                    notFinished = Convert.ToBoolean(Console.ReadLine());
-                }
+                    Console.WriteLine("We have the " + userFruitSearch + " at index: " + fruits.IndexOf(userFruitSearch));
+                    fruitFound = true;
+                } 
                 else
                 {
-                    fruits.Add(user_fruit);
-                    Console.WriteLine("Would you like to add another? Please enter true or false to continue.");
-                    notFinished = Convert.ToBoolean(Console.ReadLine());
+                    Console.WriteLine("we don't have that fruit...");
+                    fruitFound = true;
                 }
-            }
-            while (notFinished);
+            } while (!fruitFound);
+             
+            
+
+
+            // Console App Part Five - Do it again, but with a unique value and keep going.
+
+            List<string> names = new List<string>() { "matt", "james", "frank", "matt", "sean", "jordan", "kyle", "demaux"};
+            Console.WriteLine("There's a list of names here - Search for one to see if there are multiple entries: Hint the name, Matt will return with more than one index.");
+            string userNameSearch = Console.ReadLine().ToLower();
+            for (int i = 0; i < names.Count; i++)
+            {
+                if (names[i] == userNameSearch)
+                {
+                    Console.WriteLine("We found the name " + userNameSearch + " at index " + i);
+                }
+            }                
+
+
+            //  Console App Part Six, Indicate Duplications.
 
             List<string> genres = new List<string>() { "rock", "opera", "classic", "rock", "country", "rap", "rock", "rock" };
-
-            Console.WriteLine("Many users entered their favorite generes in our list. Most of them entered rock. Type your favorite genre to view the indeces they're at on the list.");
-            string userSearch = Console.ReadLine();
-            userSearch = userSearch.ToLower();
-            foreach (string genre in genres)
-            {
-                if (genres.Contains(userSearch))
-                {
-                    if (genre == userSearch)
-                    {
-                        Console.WriteLine(genre);
-                    }
-                } else
-                {
-                    Console.WriteLine("This genre isn't in the list.");
-                }
-            }
-
+                   
             // So now we need to indicate if something was a duplicate. The requirements show a screenshot where the first appearance counted as unique, but any thereafter counted as duplicates
             // So I'm setting up a list to use as a comparison operation.
             // We start by searching the comparison list for the genre, then if it does exist, it's a duplicate, but if it doesn't, we'll add it and spit out that it's unique (for now)!

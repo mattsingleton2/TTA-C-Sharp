@@ -1,0 +1,8 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Exceptions\obj\Debug\Exceptions.pdb
