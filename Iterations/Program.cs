@@ -41,26 +41,18 @@ namespace Iterations
             //  Iterate through that list and display the list index that contians the matching text.
             //  Indicate if text isn't in list.
 
-            List<string> fruits = new List<string>() { "orange", "apple", "banana", "grape", "kiwi", "lemon", "lime", "mango", "jicama", "dragonfruit", "papaya", "berry", "kiwi"};
+            List<string> fruits = new List<string>() { "orange", "apple", "banana", "grape", "kiwi", "lemon", "lime", "mango", "jicama", "dragonfruit", "papaya", "berry"};
             Console.WriteLine("Search for a fruit! Hint: we have a kiwi in this list.");
             string userFruitSearch = Console.ReadLine().ToLower();
             bool fruitFound = false;
-            do
+            for (int i = 0; i < fruits.Count; i++)
             {
-                if (fruits.Contains(userFruitSearch))
+                if (userFruitSearch == fruits[i])
                 {
-                    Console.WriteLine("We have the " + userFruitSearch + " at index: " + fruits.IndexOf(userFruitSearch));
-                    fruitFound = true;
-                } 
-                else
-                {
-                    Console.WriteLine("we don't have that fruit...");
-                    fruitFound = true;
+                    Console.WriteLine("This fruit was found at " + i); 
+                    break;
                 }
-            } while (!fruitFound);
-             
-            
-
+            }
 
             // Console App Part Five - Do it again, but with a unique value and keep going.
 
