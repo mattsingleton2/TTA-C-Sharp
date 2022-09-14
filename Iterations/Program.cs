@@ -27,7 +27,7 @@ namespace Iterations
                 Console.WriteLine(strings[i]);
             }
 
-            Console.WriteLine("Give me a number to count to.");
+            Console.WriteLine("\nGive me a number to count to.");
             int userNumber = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 0; i <= userNumber; i++)
@@ -42,28 +42,44 @@ namespace Iterations
             //  Indicate if text isn't in list.
 
             List<string> fruits = new List<string>() { "orange", "apple", "banana", "grape", "kiwi", "lemon", "lime", "mango", "jicama", "dragonfruit", "papaya", "berry"};
-            Console.WriteLine("Search for a fruit! Hint: we have a kiwi in this list.");
+            Console.WriteLine("\nSearch for a fruit! Hint: we have a kiwi in this list.");
             string userFruitSearch = Console.ReadLine().ToLower();
-            bool fruitFound = false;
             for (int i = 0; i < fruits.Count; i++)
             {
-                if (userFruitSearch == fruits[i])
+                if (fruits.Contains(userFruitSearch))
                 {
-                    Console.WriteLine("This fruit was found at " + i); 
+                    if (userFruitSearch == fruits[i])
+                    {
+                        Console.WriteLine("\nThis fruit was found at index " + i); 
+                        break;
+                    }
+                } else
+                {
+                    Console.WriteLine("\nThis fruit does not exist on our list.");
                     break;
                 }
+                
             }
 
             // Console App Part Five - Do it again, but with a unique value and keep going.
 
             List<string> names = new List<string>() { "matt", "james", "frank", "matt", "sean", "jordan", "kyle", "demaux"};
-            Console.WriteLine("There's a list of names here - Search for one to see if there are multiple entries: Hint the name, Matt will return with more than one index.");
+            Console.WriteLine("\nThere's a list of names here - Search for one to see if there are multiple entries: Hint the name, Matt will return with more than one index.");
+
             string userNameSearch = Console.ReadLine().ToLower();
+
             for (int i = 0; i < names.Count; i++)
             {
-                if (names[i] == userNameSearch)
+                if (names.Contains(userNameSearch))
                 {
-                    Console.WriteLine("We found the name " + userNameSearch + " at index " + i);
+                    if (names[i] == userNameSearch)
+                    {
+                    Console.WriteLine("\nWe found the name " + userNameSearch + " at index " + i);
+                    }
+                } else
+                {
+                    Console.WriteLine("\nThis name isn't on our list.");
+                    break;
                 }
             }                
 
@@ -77,17 +93,17 @@ namespace Iterations
             // We start by searching the comparison list for the genre, then if it does exist, it's a duplicate, but if it doesn't, we'll add it and spit out that it's unique (for now)!
 
             List<string> compareGenres = new List<string>();
-
+            Console.WriteLine("\n--------------------------------------------------------------------------------");
             // foreach loop iterates through the strings in the genre list. 
             foreach (string genre in genres)
             {
                 if (compareGenres.Contains(genre))
                 {
-                    Console.WriteLine(genre + " - this item is a duplicate");
+                    Console.WriteLine(genre + " - this item is a duplicate\n");
                 } else
                 {
                     compareGenres.Add(genre);
-                    Console.WriteLine(genre + " - this item is unique");
+                    Console.WriteLine(genre + " - this item is unique\n");
                 }
             }
             Console.ReadLine();
