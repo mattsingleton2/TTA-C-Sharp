@@ -19,3 +19,7 @@ Another console app that takes a user input, passes it through some regex and a 
 
 ### ArraysAndLists
 Quick project to show utilization and index search for arrays and lists.
+
+### Iterations
+Practice on iterating through objects.
+
