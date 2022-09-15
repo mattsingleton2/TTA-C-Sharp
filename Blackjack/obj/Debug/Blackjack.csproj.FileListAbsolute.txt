@@ -6,3 +6,11 @@ C:\Users\matts\Desktop\Basic_C#_Programs\Blackjack\obj\Debug\Blackjack.csproj.Su
 C:\Users\matts\Desktop\Basic_C#_Programs\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\matts\Desktop\Basic_C#_Programs\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\matts\Desktop\Basic_C#_Programs\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.pdb

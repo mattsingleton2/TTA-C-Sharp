@@ -6,17 +6,16 @@ namespace Method_Calls
 {
     public class CustomMath
     {
-        public int Addition(int num1, int num2)
+        public int Addition(int num1)
         {
-            return num1 + num2;
+            return num1 + 2;
         }
 
-        public decimal Division(decimal num1, decimal num2)
+        public int Division(int num1)
         {
             try
             {
-                decimal result = num1 / num2;
-                return result;
+                return num1 / 2;
             }
             catch (Exception e)
             {
@@ -25,9 +24,9 @@ namespace Method_Calls
             }
         }
 
-        public int Multiplication(int num1, int num2)
+        public int Multiplication(int num1)
         {
-            return num1 * num2;
+            return num1 * 2;
         }
     }
 }
