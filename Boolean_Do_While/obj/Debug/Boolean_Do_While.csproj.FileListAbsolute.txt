@@ -1,8 +1,0 @@
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\bin\Debug\Boolean_Do_While.exe.config
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\bin\Debug\Boolean_Do_While.exe
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\bin\Debug\Boolean_Do_While.pdb
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\obj\Debug\Boolean_Do_While.csproj.AssemblyReference.cache
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\obj\Debug\Boolean_Do_While.csproj.SuggestedBindingRedirects.cache
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\obj\Debug\Boolean_Do_While.csproj.CoreCompileInputs.cache
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\obj\Debug\Boolean_Do_While.exe
-C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Boolean_Do_While\obj\Debug\Boolean_Do_While.pdb

@@ -1,0 +1,3 @@
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\obj\x86\Debug\C-Sharp-Projects.csproj.AssemblyReference.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\obj\x86\Debug\C-Sharp-Projects.csproj.SuggestedBindingRedirects.cache
+C:\Users\matts\Source\Repos\mattsingleton2\TTA-C-Sharp\obj\x86\Debug\C-Sharp-Projects.csproj.CoreCompileInputs.cache
