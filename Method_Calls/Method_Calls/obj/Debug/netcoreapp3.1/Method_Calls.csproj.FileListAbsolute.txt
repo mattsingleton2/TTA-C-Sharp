@@ -1,0 +1,14 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.deps.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.runtimeconfig.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.runtimeconfig.dev.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\bin\Debug\netcoreapp3.1\Method_Calls.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.AssemblyInfoInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.AssemblyInfo.cs
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Method_Calls\Method_Calls\obj\Debug\netcoreapp3.1\Method_Calls.genruntimeconfig.cache
