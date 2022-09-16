@@ -21,14 +21,14 @@ namespace Method_Calls
             }
             catch (Exception e)
             {
-                // This will just log that error message whether it's a stack overflow or just failed.
+                //  This will just log that error message whether it's a stack overflow or just failed.
                 Console.WriteLine(e.Message);
             }
 
             Console.WriteLine("\n------------BEGIN STEP 279------------\n");
 
 
-            // Main Method Submission Assingnment Step 279 START
+            //  Main Method Submission Assignment Step 279 START
             //  Begin by instantiating the class with an object...
             MultiMath mmathObject = new MultiMath();
 
@@ -75,6 +75,17 @@ namespace Method_Calls
                 Console.WriteLine("Here, I'm only passing the first number and not even letting the method receive the second number or lack thereof: " + optArg.Multiplication(numOpt1));
             }
 
+
+            Console.WriteLine("\n------------BEGIN STEP 281------------\n");
+
+            //  Main Method Submission Assignment Step 281 START
+            //  Begin by instantiating our new class object to handle parameters.
+            VoidMethod voidObj = new VoidMethod();
+
+            //  Pass two integers..
+            Console.WriteLine("Passing the void method integers 100 and 200...");
+            //  Requirement : Pass these parameters in as named arguments, so used num1 and num2 as described in the class Method.
+            voidObj.VoidCalculation(num1: 100, num2: 200);
         }
     }
 }
