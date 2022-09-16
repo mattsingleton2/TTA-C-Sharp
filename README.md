@@ -28,3 +28,13 @@ A project to play Blackjack in C#!
 
 ### Method_Calls
 A quick bit of practice for instantiating objects from classes and calling any methods attributed with them.
+
+### Methods_And_Classes
+Practicing with class inheritance, super class methods and how things pass around.
+
+### Class_Practice 
+Tested out some various class instantiations. Used a static class and understood how those relate to things like the Math class in C#. No object-instantiation method-access.
+
+### Exceptions
+Work with Try/Catch. Learned how to grab exceptions and display custom messages for those or log them to a console (or db in the future.) 
+
