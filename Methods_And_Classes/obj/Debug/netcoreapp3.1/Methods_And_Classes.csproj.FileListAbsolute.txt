@@ -1,0 +1,14 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.deps.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.runtimeconfig.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.runtimeconfig.dev.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\bin\Debug\netcoreapp3.1\Methods_And_Classes.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.AssemblyInfoInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.AssemblyInfo.cs
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Methods_And_Classes\obj\Debug\netcoreapp3.1\Methods_And_Classes.genruntimeconfig.cache
