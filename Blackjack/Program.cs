@@ -10,13 +10,6 @@ namespace Blackjack
     {
         static void Main()
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Matt";
-            game = game + player;
-            game = game - player; 
-
             Deck deck = new Deck();
             deck.Shuffle(3);
 
@@ -26,9 +19,6 @@ namespace Blackjack
             }
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-            
         }
-
-
     }
 }

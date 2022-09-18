@@ -1,0 +1,14 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.deps.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.runtimeconfig.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.runtimeconfig.dev.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\bin\Debug\netcoreapp3.1\Enum_Practice.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.AssemblyInfoInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.AssemblyInfo.cs
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Enum_Practice\obj\Debug\netcoreapp3.1\Enum_Practice.genruntimeconfig.cache
