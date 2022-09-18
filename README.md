@@ -41,3 +41,6 @@ Work with Try/Catch. Learned how to grab exceptions and display custom messages 
 ### Abstract_Class_Practice
 Worked with Abstract classes that created abstract methods. Learned about the inability to instantiate objects of those abstract methods but classes that inherited from it could be instantiated as long as the abstract method is defined. 
 This lesson also covered Interfaces and how you implement those since there's a restriction to only inherit from one class at a time. This way allows us to create additional data contracts without having to repeat ourselves.
+
+###	Enum_Practice
+Practice with enumerations! Grabbing string values and attempting to parse them as enumerable data types to verify the entry works correctly.
