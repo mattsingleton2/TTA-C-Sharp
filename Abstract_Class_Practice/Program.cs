@@ -11,6 +11,9 @@ namespace Abstract_Class_Practice
 
             //  Calling method. 
             msingleton.SayName();
+
+            //  Calling method inherited by the interface.
+            msingleton.Quit();
         }
     }
 }
