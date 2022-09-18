@@ -38,3 +38,6 @@ Tested out some various class instantiations. Used a static class and understood
 ### Exceptions
 Work with Try/Catch. Learned how to grab exceptions and display custom messages for those or log them to a console (or db in the future.) 
 
+### Abstract_Class_Practice
+Worked with Abstract classes that created abstract methods. Learned about the inability to instantiate objects of those abstract methods but classes that inherited from it could be instantiated as long as the abstract method is defined. 
+
