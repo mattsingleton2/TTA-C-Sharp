@@ -1,0 +1,14 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.deps.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.runtimeconfig.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.runtimeconfig.dev.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\bin\Debug\netcoreapp3.1\EmployeeLambda.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.AssemblyInfoInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.AssemblyInfo.cs
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\EmployeeLambda\obj\Debug\netcoreapp3.1\EmployeeLambda.genruntimeconfig.cache
