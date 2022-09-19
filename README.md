@@ -44,3 +44,6 @@ This lesson also covered Interfaces and how you implement those since there's a 
 
 ###	Enum_Practice
 Practice with enumerations! Grabbing string values and attempting to parse them as enumerable data types to verify the entry works correctly.
+
+###	EmployeeLambda
+Practice with Lamda functions and lists.
