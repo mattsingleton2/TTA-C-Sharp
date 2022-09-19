@@ -8,6 +8,11 @@ namespace Blackjack
     {
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return String.Format($"{Face} of {Suit}");
+        }
     }
 
     public enum Suit
