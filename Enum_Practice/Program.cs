@@ -18,7 +18,7 @@ namespace Enum_Practice
                 //  So using (Day)Enum.Parse(typeof(Day) will take the string and attempt
                 //  to convert it to one of our enumerables.
                 Day userDay = (Day)Enum.Parse(typeof(Day), Console.ReadLine());
-            } catch (Exception e)
+            } catch
             {
                 //  If we got an exception, let's not get picky, just tell them to try to enter a real day.
                 Console.WriteLine("Please enter an actual day of the week.");
