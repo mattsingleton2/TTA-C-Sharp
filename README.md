@@ -24,7 +24,7 @@ Quick project to show utilization and index search for arrays and lists.
 Practice on iterating through objects.
 
 ### Blackjack
-A project to play Blackjack in C#! 
+A project to play Blackjack in C#! All the C# fundamentals I've learned are in this project, and I even converted it to a library to learn how that works along with building in new references for my projects.  
 
 ### Method_Calls
 A quick bit of practice for instantiating objects from classes and calling any methods attributed with them.
