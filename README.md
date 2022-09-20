@@ -47,3 +47,6 @@ Practice with enumerations! Grabbing string values and attempting to parse them 
 
 ###	EmployeeLambda
 Practice with Lamda functions and lists.
+
+###	DateTime_Practice
+Practice with the DateTime struct. 
