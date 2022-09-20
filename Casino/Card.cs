@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace Blackjack
+namespace Casino
 {
     public struct Card
     {

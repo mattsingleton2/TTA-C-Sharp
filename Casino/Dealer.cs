@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
-namespace Blackjack
+namespace Casino
 {
     public class Dealer
     {
@@ -22,7 +20,7 @@ namespace Blackjack
             {
                 file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
-                            }
+            }
             Deck.Cards.RemoveAt(0);
         }
     }

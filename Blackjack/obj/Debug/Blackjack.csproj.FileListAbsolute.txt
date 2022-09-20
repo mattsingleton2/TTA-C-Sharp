@@ -14,3 +14,6 @@ C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Black
 C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\bin\Debug\Casino.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\bin\Debug\Casino.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete

@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace Blackjack
 {
@@ -23,6 +21,11 @@ namespace Blackjack
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\matts\Desktop\log.txt", true))
+                {
+                    file.WriteLine($"Player ID: {player.Id} started game.");
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivelyPlaying = true;

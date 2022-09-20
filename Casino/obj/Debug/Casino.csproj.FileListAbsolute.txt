@@ -1,0 +1,6 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\bin\Debug\Casino.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\bin\Debug\Casino.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\obj\Debug\Casino.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\Casino\obj\Debug\Casino.pdb
