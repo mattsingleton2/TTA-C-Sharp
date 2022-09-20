@@ -15,5 +15,16 @@ namespace Class_Practice
 
             return fahrenheit;
         }
+
+        public static double FahrenheitToCelsius(int currentTemp)
+        {
+            //  Convert int to double....
+            double fahrenheit = Convert.ToDouble(Convert.ToInt32(currentTemp));
+
+            //  Fahrenheit to Celsius
+            double celsius = (fahrenheit - 32) * 5 / 9;
+
+            return celsius;
+        }
     }
 }
