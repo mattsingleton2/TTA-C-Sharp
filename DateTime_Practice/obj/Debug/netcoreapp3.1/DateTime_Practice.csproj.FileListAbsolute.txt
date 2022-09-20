@@ -1,0 +1,14 @@
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.exe
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.deps.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.runtimeconfig.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.runtimeconfig.dev.json
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.csproj.AssemblyReference.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.AssemblyInfoInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.AssemblyInfo.cs
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.csproj.CoreCompileInputs.cache
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.dll
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.pdb
+C:\Users\matts\source\repos\mattsingleton2\TTA-C-Sharp\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.genruntimeconfig.cache
