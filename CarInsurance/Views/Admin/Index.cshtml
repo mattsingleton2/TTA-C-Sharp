@@ -1,0 +1,37 @@
+﻿@using CarInsurance.Models
+@model List<CarInsurance.Models.Insuree>
+
+@{
+    ViewBag.Title = "Admin View";
+}
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h2>Quotes Sent Out:</h2>
+        </div>
+        <div class="card-body">
+            @foreach (var insuree in Model)
+            {
+                using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+                {
+                <div class="row mb-3">
+                    <div class="col-2">
+                        Name: @insuree.FirstName @insuree.LastName
+                    </div>
+                    <div class="col-4">
+                        Email: @insuree.EmailAddress
+                    </div>
+                    <div class="col-4 mb-5">
+                        Quote: @String.Format("{0:C}", insuree.Quote)
+                    </div>
+                    <hr />
+                </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+
